@@ -15,7 +15,7 @@
 ###
 
 <h2 align="left">I code with</h2>
-
+<a href="https://github.com/oakoudad/badge42"><img src="https://camo.githubusercontent.com/cb1a455b4db02f0d6d09cf77a4867a685d4e9e8923ffa65c8c18a7a6909e565f/68747470733a2f2f62616467652e6d65646961706c75732e6d612f62696e6172792f72626f757461696b3f554d36503d6f6666" alt="rboutaik's 42 stats" data-canonical-src="[https://badge.mediaplus.ma/binary/rboutaik?UM6P=off](https://badge.mediaplus.ma/binary/sel-bech?UM6P=off)" style="max-width: 100%;"></a>
 ###
 
 <div align="left">

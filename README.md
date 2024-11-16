@@ -13,7 +13,7 @@
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning: computer science<br>🎯 Goals: software engineer<br>🎲 Fun fact: :)</p>
 
 ###
-<img src="https://badge.mediaplus.ma/binary/sel-bech?UM6P=off">
+
 
 ###
 

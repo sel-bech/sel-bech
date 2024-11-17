@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is SAAD and I'm a computer science student, from MOROCCO</p>
-<img src="https://badge.mediaplus.ma/binary/sel-bech?UM6P=on">
+<img src="https://badge.mediaplus.ma/binary/sel-bech?UM6P=off">
 ###
 
 <h2 align="left">About me</h2>

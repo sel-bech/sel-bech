@@ -1,25 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm SAAD</h1>
 
-<p align="left">
-  My name is <strong>SAAD</strong> and I'm a computer science student from <strong>MOROCCO</strong> 🇲🇦
-</p>
-
-<p align="left">
-  <img src="https://badge.mediaplus.ma/binary/sel-bech?UM6P=off" alt="42 Badge" />
-</p>
+<p align="left">🎓 I'm a Computer Science student from Morocco 🇲🇦</p>
+<p align="left"><img src="https://badge.mediaplus.ma/binary/sel-bech?UM6P=off" /></p>
 
 ---
 
 ## 🧠 About Me
 
-- ✨ Creating bugs since forever  
-- 📚 Currently learning: Computer Science  
-- 🎯 Goals: Become a Software Engineer  
-- 🎲 Fun fact: :)
+- ✨ Creating bugs since forever
+- 📚 Currently learning **low-level programming, systems, and web**
+- 🎯 Goal: Become a professional software engineer
+- 😄 Fun fact: I like making complicated things look simple
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Technologies I Use
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -34,14 +29,28 @@
 
 ---
 
-## 📊 Stats & Activity
+## 📫 Connect With Me
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![42 Profile](https://img.shields.io/badge/42-Profile-blue?style=for-the-badge&logo=42&logoColor=white)](https://badge.mediaplus.ma/)
 
 ---
 
-> 📫 You can reach me at: `saad1914el@gmail.com` or through my GitHub.
+## 📌 Featured Projects
 
+- 🔗 [Project Name](https://github.com/yourusername/project)
+- 🔗 [Minishell – Bash Clone in C](https://github.com/yourusername/minishell)
+- 🔗 [Philosophers – Threaded C Simulation](https://github.com/yourusername/philosophers)
+
+---
+
+## 🔭 What I'm Working On
+
+I'm currently focused on:
+- 🌐 Full-stack development using Django and React
+- 🧵 Multithreaded C programming (42 projects)
+- 📁 System-level scripting (minishell, pipex, etc.)
+
+---
+
+> _"Consistency beats talent. Every. Single. Time."_ 💪
